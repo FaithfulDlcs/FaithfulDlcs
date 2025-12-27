@@ -1,58 +1,155 @@
-# Matheus Reis
+# 👨🏻‍💻 Matheus Reis
 
-Estudante de **Engenharia da Computação** e **Análise e Desenvolvimento de Sistemas (ADS)**, com foco em **desenvolvimento em Java** e construção de projetos voltados a **sistemas**, **backend** e **automação**.
+**`Desenvolvedor Java | Backend | Automação`**
 
-## Sobre
+Sou estudante de **Engenharia da Computação** e **Análise e Desenvolvimento de Sistemas (ADS)**, com foco em **desenvolvimento Java**, **backend** e **automação**. Curto construir sistemas bem estruturados, com boas práticas, organização de projeto e atenção a performance.
+
+<p align="left">
+  <a href="https://www.youtube.com/@FaithfulOficial">
+    <img 
+      alt="YouTube"
+      title="Acessar meu canal no YouTube"
+      src="https://custom-icon-badges.demolab.com/badge/YouTube-@FaithfulOficial-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
+    />
+  </a>
+  <a href="https://www.instagram.com/matheusreisf_/">
+    <img 
+      alt="Instagram"
+      title="Acessar meu Instagram"
+      src="https://custom-icon-badges.demolab.com/badge/Instagram-@matheusreisf_-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    />
+  </a>
+  <a href="https://discord.com/users/faithfuldlcc">
+    <img 
+      alt="Discord"
+      title="Falar comigo no Discord"
+      src="https://custom-icon-badges.demolab.com/badge/Discord-faithfuldlcc-5865F2?style=for-the-badge&logo=discord&logoColor=white"
+    />
+  </a>
+  <a href="https://github.com/FaithfulDlc?tab=repositories&sort=stargazers">
+    <img 
+      alt="Total de estrelas" 
+      title="Total de estrelas GitHub" 
+      src="https://custom-icon-badges.demolab.com/github/stars/FaithfulDlc?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+    />
+  </a>
+  <a href="https://github.com/FaithfulDlc?tab=followers">
+    <img 
+      alt="Seguidores" 
+      title="Me siga no GitHub" 
+      src="https://custom-icon-badges.demolab.com/github/followers/FaithfulDlc?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+    />
+  </a>
+</p>
+
+---
+
+### 🧠 Sobre mim
+
 - Linguagem principal: **Java**
 - Interesses: **backend**, **arquitetura de software**, **plugins/sistemas**, **automação**
-- Em evolução contínua em fundamentos de engenharia: **estrutura de dados**, **POO**, **redes**, **SO**, **performance**
+- Em evolução contínua: **POO**, **estrutura de dados**, **redes**, **SO**, **performance**
+- Objetivo: entregar projetos com **código limpo**, **padrões**, **testabilidade** e **manutenibilidade**
 
 ---
 
-## Tecnologias
-### Principal
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white)
+### 🧰 Linguagens e Tecnologias
 
-### Também utilizo / estou evoluindo
-![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white)
+<img 
+  align="left" 
+  alt="Java"
+  title="Java" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+  align="left" 
+  alt="JavaScript"
+  title="JavaScript" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+  align="left" 
+  alt="Python"
+  title="Python" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+  align="left" 
+  alt="Git"
+  title="Git" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+  align="left" 
+  alt="Maven"
+  title="Maven" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" 
+/>
+<img 
+  align="left" 
+  alt="Gradle"
+  title="Gradle" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" 
+/>
+<img 
+  align="left" 
+  alt="Docker"
+  title="Docker" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+/>
 
-### Ferramentas
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-000?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-000?style=for-the-badge&logo=gradle&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=white)
+<br/>
+<br/>
 
 ---
 
-## Projetos em destaque
-> Sugestão: coloque aqui 2–4 repositórios que representem bem o que você quer ser contratado/avaliado.
+### 📚 Em aprendizado no momento
 
-- **[Projeto 1](LINK_AQUI)** — descrição curta (1 linha).  
-  Tech: Java, <...>
-
-- **[Projeto 2](LINK_AQUI)** — descrição curta (1 linha).  
-  Tech: Java, <...>
-
-- **[Projeto 3](LINK_AQUI)** — descrição curta (1 linha).  
-  Tech: <...>
-
----
-
-## Em aprendizado no momento
 - Java: boas práticas, organização de projeto, padrões e arquitetura
 - SQL: modelagem, consultas e integração com aplicações
-- JavaScript/Python: apoio para automação e utilitários
+- JavaScript/Python: automação e utilitários
 
 ---
 
-## GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=FaithfulDlc&show_icons=true&hide_title=true&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaithfulDlc&layout=compact)
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=FaithfulDlc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" 
+  />
+  <img 
+    align="left" 
+    alt="Top Langs" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaithfulDlc&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
+
+<br/>
+<br/>
 
 ---
 
-## Contato
-- LinkedIn: <coloque o link>
-- Email: <coloque o email>
+### 📫 Contato (opcional)
+
+- LinkedIn: **COLOCAR_DEPOIS**
+- Email: **COLOCAR_DEPOIS**
+- Site/Portfólio: **COLOCAR_DEPOIS**
