@@ -19,7 +19,7 @@ Sou estudante de **Engenharia da Computação** e **Análise e Desenvolvimento d
       src="https://custom-icon-badges.demolab.com/badge/Instagram-@matheusreisf_-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
     />
   </a>
-  <a href="https://discord.com/users/faithfuldlcc">
+  <a href="https://discord.com/users/311280843236835339">
     <img 
       alt="Discord"
       title="Falar comigo no Discord"
@@ -133,13 +133,13 @@ Sou estudante de **Engenharia da Computação** e **Análise e Desenvolvimento d
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=FaithfulDlc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=FaithfulDlc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=7200" 
   />
   <img 
     align="left" 
     alt="Top Langs" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaithfulDlc&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaithfulDlc&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=7200" 
   />
 </p>
 
@@ -148,7 +148,7 @@ Sou estudante de **Engenharia da Computação** e **Análise e Desenvolvimento d
 
 ---
 
-### 📫 Contato (opcional)
+### 📫 Contato
 
 - LinkedIn: **COLOCAR_DEPOIS**
 - Email: **COLOCAR_DEPOIS**
